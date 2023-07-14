@@ -7,8 +7,8 @@ class ATM {
   private double deposit_Amount; 
   private double withdraw_Amount;
 
-  public ATM(){
-  
+  public ATM()
+  {
   }
   public double getBalance() 
   { 
